@@ -18,7 +18,7 @@ export default function RootLayout({
     <html lang="en">
       <body className="bg-zinc-950 antialiased selection:bg-cyan-300 selection:text-cyan-800">
         <div className="relative isolate transform-gpu pt-14">
-        <Image src="/icon.svg" width={100} height={100} alt="" className="mx-auto mb-5" />
+        <Image src="icon.svg" width={100} height={100} alt="" className="mx-auto mb-5" />
 
           <div className="absolute inset-0 -z-10 bg-[image:radial-gradient(80%_50%_at_50%_-20%,hsl(206,81.9%,65.3%,0.5),rgba(255,255,255,0))]"></div>
 
